@@ -59,7 +59,7 @@ getgenv().config = {
         ["Fruit"] = {
             ["Time"] = 4,
             ["Enabled"] = true,
-            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 0},
+            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 2},
             ["X"] = {["Enabled"] = true, ["HoldTime"] = 0},
             ["C"] = {["Enabled"] = true, ["HoldTime"] = 0},
             ["V"] = {["Enabled"] = false, ["HoldTime"] = 0},
@@ -68,7 +68,7 @@ getgenv().config = {
         ["Sword"] = {
             ["Time"] = 0,
             ["Enabled"] = false,
-            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 0},
+            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 2},
             ["X"] = {["Enabled"] = true, ["HoldTime"] = 0},
         },
         ["Gun"] = {
