@@ -73,7 +73,7 @@ getgenv().config = {
         },
         ["Gun"] = {
             ["Time"] = 1,
-            ["Enabled"] = false,
+            ["Enabled"] = true,
             ["GunMode"] = true,
             ["Z"] = {["Enabled"] = true, ["HoldTime"] = 0},
             ["X"] = {["Enabled"] = true, ["HoldTime"] = 0},
