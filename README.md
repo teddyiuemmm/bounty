@@ -1,5 +1,5 @@
 getgenv().config = {
-    ["Team"] = "Marines",
+    ["Team"] = "Pirates",
     ["FPS Boost"] = true,
     ["LocalPlayer"] = {
         ["Ken Haki"] = true,
