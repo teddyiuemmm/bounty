@@ -62,7 +62,7 @@ getgenv().config = {
             ["Z"] = {["Enabled"] = true, ["HoldTime"] = 2},
             ["X"] = {["Enabled"] = true, ["HoldTime"] = 0},
             ["C"] = {["Enabled"] = true, ["HoldTime"] = 0},
-            ["V"] = {["Enabled"] = false, ["HoldTime"] = 0},
+            ["V"] = {["Enabled"] = true, ["HoldTime"] = 0},
             ["F"] = {["Enabled"] = true, ["HoldTime"] = 0}
         },
         ["Sword"] = {
